@@ -1,0 +1,9 @@
+usa
+germany
+france
+spain
+japan
+russia
+italy
+china
+united kingdom
